@@ -1,7 +1,7 @@
 {
   "name": "react-native-open-native-screen",
   "title": "React Native Open Native Screen",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "React Native module for open Android activty and Ios view controller",
   "main": "index.js",
   "scripts": {
