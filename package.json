@@ -1,8 +1,8 @@
 {
   "name": "react-native-open-native-screen",
   "title": "React Native Open Native Screen",
-  "version": "1.0.0",
-  "description": "TODO",
+  "version": "0.0.1",
+  "description": "React Native module for open Android activty and Ios view controller",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,11 +13,13 @@
     "baseUrl": "https://github.com/github_account/react-native-open-native-screen"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "Android activity",
+    "IOS view controller"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Majid Lotfinia",
+    "email": "majidlotfinia12@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
